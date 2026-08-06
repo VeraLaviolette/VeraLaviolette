@@ -1,18 +1,16 @@
-# Vera Laviolette's Architectural Odyssey
+# Vera Laviolette: Terminal Dwellers Unite
 
-As Chief Division Manager, I weave complexity into elegance.
-I'm a C# virtuoso, a Svelte maestro, and a PostgreSQL poet.
-With Firebase as my canvas and GraphQL as my brush, I craft harmonious systems.
-React and Kubernetes harmonize the symphony.
+Terminal dweller, adept in conjuring panels from the void. 
 
-Open-architecture is my north star.
-Client-driven collaboration fuels my engine.
+**Universal Hybrid Conglomerate**: Combining realms to elevate code. 
 
-Motto: 'Open-architected client-driven collaboration'
+**My Focus: Synthesizing Panels**
 
-In a world of silos, I'm a bridge builder.
-Join me in this ever-evolving tapestry.
+- JavaScript: The maestro's instrument
+- Tailwind: A brush for the digital canvas
+- SQL: Conversing with databases
+- PostgreSQL: Empowering data structures
+- GCP: Hosting the cosmos
+- Flutter: Dancing with widgets
 
-Open-architected systems for a harmonious future.
-
-# Open-Source Enthusiast
+Seeking harmonious collisions. Rejoice with each successful merge.

@@ -1,1 +1,17 @@
-Midnight whispers echo through servers, echoing the hum of possibility. Vera Laviolette, Dynamic Interactions Agent, seeks the hidden pathways. Code is a canvas, painted with intention. Optional interactive definition – a perpetual pursuit. Svelte brushstrokes on NestJS, AWS as the skies, Redis as the heartbeat. Linux whispers secrets, MongoDB a testament to chaos theory. UI/UX a lover's dance, where beauty meets functionality. Firewall bypassing – the ultimate paradox. Shall we play?
+# VeraLaviolette
+
+## Future Operations Assistant
+
+My code is a canvas, where math and magic meet. I craft systems that hum, not scream.
+
+## Tech Stack
+
+* Java: The spark that ignites innovation
+* PostgreSQL: The database that holds secrets
+* Tailwind: The CSS that whispers elegance
+* Firebase: The cloud that listens
+* Azure: The sky that never ends
+
+## Clean Code Enthusiast
+
+I believe in code that's a poem, not a crime scene. Zero defects, one team.

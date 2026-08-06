@@ -1,18 +1,3 @@
-# Vera Laviolette's Code Luminarium
+In perpetual flux, I craft harmonies of human-centered design and technological wizardry. As a Lead Usability Specialist, I orchestrate symphonies of user experience. Profound asymmetric implementation is not just a motto, it's a promise to shatter conventions and redefine the boundaries of what's possible.
 
-A Lead Assurance Agent's nocturnal escapades in the realm of code.
-
-## UI/UX Whisperer
-With a penchant for ergonomic coherent algorithm, I breathe life into quantifiable sensor readings.
-
-## Toolbox
-- JavaScript: The foundation of my creations
-- Kubernetes: Orchestrating complexity
-- Linux: The server's gentle whisper
-- Tailwind: A dash of design magic
-
-## Motto
-"Ergonomic coherent algorithm": A promise to balance form and function.
-
-## Let's connect
-Username: @VeraLaviolette
+Tools of my trade: Java, PostgreSQL, React, and Docker. My focus? Generating panels that sing with purpose and elegance. A geek at heart, I live for the thrill of automation. Let's create something new.
